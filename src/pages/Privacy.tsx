@@ -81,8 +81,8 @@ export default function Privacy() {
                 If you have questions or comments about this Privacy Policy, please contact us at:
               </p>
               <p className="mt-2">
-                <strong>Email:</strong> support@thetestingautomationacademy.com<br />
-                <strong>Phone:</strong> 9971031900<br />
+                <strong>Email:</strong> TheTestingAutomationAcademy@gmail.com<br />
+                <strong>Phone:</strong> 7827497672<br />
                 <strong>Address:</strong> 2nd Floor, G1533, UTTAM NAGAR, NEW DELHI, 110059, India
               </p>
             </section>

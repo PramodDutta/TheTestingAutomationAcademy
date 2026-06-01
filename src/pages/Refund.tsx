@@ -30,7 +30,7 @@ export default function Refund() {
               <h2 className="text-2xl font-bold text-[#001F3F] mb-4">3. How to Request a Refund</h2>
               <p className="mb-4">To request a refund, please follow these steps:</p>
               <ol className="list-decimal pl-6 space-y-2">
-                <li>Send an email to support@thetestingautomationacademy.com with the subject line "Refund Request"</li>
+                <li>Send an email to TheTestingAutomationAcademy@gmail.com with the subject line "Refund Request"</li>
                 <li>Include your order number and the email address used for purchase</li>
                 <li>Provide a brief explanation of why you are requesting a refund</li>
                 <li>Our team will review your request within 3-5 business days</li>
@@ -66,8 +66,8 @@ export default function Refund() {
                 If you have any questions about our Refund Policy, please contact us at:
               </p>
               <p className="mt-2">
-                <strong>Email:</strong> support@thetestingautomationacademy.com<br />
-                <strong>Phone:</strong> 9971031900<br />
+                <strong>Email:</strong> TheTestingAutomationAcademy@gmail.com<br />
+                <strong>Phone:</strong> 7827497672<br />
                 <strong>Address:</strong> 2nd Floor, G1533, UTTAM NAGAR, NEW DELHI, 110059, India
               </p>
             </section>

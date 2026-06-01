@@ -46,7 +46,7 @@ export default function Shipping() {
             <section className="mb-10">
               <h2 className="text-2xl font-bold text-[#001F3F] mb-4">Access Issues</h2>
               <p>
-                If you experience any issues accessing your purchased content, please contact our support team immediately at support@thetestingautomationacademy.com. We are committed to resolving any access issues within 24 hours of receiving your request.
+                If you experience any issues accessing your purchased content, please contact our support team immediately at TheTestingAutomationAcademy@gmail.com. We are committed to resolving any access issues within 24 hours of receiving your request.
               </p>
             </section>
 
@@ -63,8 +63,8 @@ export default function Shipping() {
                 If you have any questions about our Shipping & Delivery policy, please contact us at:
               </p>
               <p className="mt-2">
-                <strong>Email:</strong> support@thetestingautomationacademy.com<br />
-                <strong>Phone:</strong> 9971031900<br />
+                <strong>Email:</strong> TheTestingAutomationAcademy@gmail.com<br />
+                <strong>Phone:</strong> 7827497672<br />
                 <strong>Address:</strong> 2nd Floor, G1533, UTTAM NAGAR, NEW DELHI, 110059, India
               </p>
             </section>

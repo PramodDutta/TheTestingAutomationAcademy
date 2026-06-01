@@ -85,7 +85,7 @@ export default function FAQ() {
             If you couldn't find the answer you're looking for, please feel free to contact our support team.
           </p>
           <a
-            href="mailto:support@thetestingautomationacademy.com"
+            href="mailto:TheTestingAutomationAcademy@gmail.com"
             className="inline-flex items-center justify-center px-8 py-3 bg-[#FFD700] text-[#001F3F] font-semibold rounded-lg hover:bg-[#FFD700]/90 transition-colors"
           >
             Contact Support

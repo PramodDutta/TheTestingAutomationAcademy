@@ -37,14 +37,14 @@ export default function Contact() {
     {
       icon: Mail,
       title: 'Email',
-      content: 'support@thetestingautomationacademy.com',
-      link: 'mailto:support@thetestingautomationacademy.com',
+      content: 'TheTestingAutomationAcademy@gmail.com',
+      link: 'mailto:TheTestingAutomationAcademy@gmail.com',
     },
     {
       icon: Phone,
       title: 'Phone',
-      content: '9971031900',
-      link: 'tel:9971031900',
+      content: '7827497672',
+      link: 'tel:7827497672',
       subtitle: 'Mon-Fri, 9am-6pm IST',
     },
     {
