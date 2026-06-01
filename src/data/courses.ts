@@ -39,9 +39,9 @@ export const courses: Course[] = [
     originalPrice: 39999,
     rating: 5.0,
     instructor: {
-      name: 'Rahul Sharma',
+      name: 'Pramod Dutta',
       role: 'Lead QA Engineer',
-      bio: 'With over 10 years of experience in software testing, Rahul has worked with major tech companies and has helped hundreds of students transition into successful testing careers.',
+      bio: 'With over 14 years of experience in software testing, Pramod has worked with major tech companies and has helped hundreds of students transition into successful testing careers.',
     },
     image: '/images/course-manual-testing.jpg',
     lessons: [

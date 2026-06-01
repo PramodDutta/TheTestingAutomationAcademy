@@ -13,7 +13,7 @@ const blogPosts = [
     excerpt: 'Learn the fundamentals of software testing, including different types of testing, testing methodologies, and how to start your career as a software tester.',
     image: '/images/blog-1.jpg',
     category: 'Manual Testing',
-    author: 'Rahul Sharma',
+    author: 'Pramod Dutta',
     date: 'Jan 15, 2025',
     readTime: '8 min read',
     featured: true,

@@ -38,7 +38,7 @@ const blogPosts = [
     `,
     image: '/images/blog-1.jpg',
     category: 'Manual Testing',
-    author: 'Rahul Sharma',
+    author: 'Pramod Dutta',
     authorRole: 'Lead QA Engineer',
     date: 'Jan 15, 2025',
     readTime: '8 min read',

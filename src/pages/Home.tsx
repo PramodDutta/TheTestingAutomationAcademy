@@ -206,12 +206,12 @@ export default function Home() {
               <div className="rounded-2xl overflow-hidden shadow-xl">
                 <img
                   src="/images/instructor.jpg"
-                  alt="Instructor"
+                  alt="Pramod Dutta"
                   className="w-full h-auto"
                 />
               </div>
               <div className="absolute -bottom-6 -right-6 bg-[#FFD700] rounded-lg p-4 shadow-lg">
-                <p className="text-[#001F3F] font-bold text-lg">10+ Years</p>
+                <p className="text-[#001F3F] font-bold text-lg">14+ Years</p>
                 <p className="text-[#001F3F]/70 text-sm">Experience</p>
               </div>
             </div>
@@ -224,11 +224,11 @@ export default function Home() {
                 Meet your Instructor <span className="inline-block animate-wave">👋</span>
               </h2>
               <p className="text-xl text-gray-700">
-                <span className="font-semibold text-[#001F3F]">Rahul Sharma</span>
+                <span className="font-semibold text-[#001F3F]">Pramod Dutta</span>
                   </p>
               <p className="text-gray-600 leading-relaxed">
                 I teach Manual Testing, API Testing (Manual & Automation), Automation Testing (with Java).
-                With over 10 years of experience in software testing, I've worked with major tech companies
+                With over 14 years of experience in software testing, I've worked with major tech companies
                 and have helped hundreds of students transition into successful testing careers.
               </p>
               <Button
